@@ -1,7 +1,7 @@
 # Liquid-Galaxy-for-Education-Controller
 
 ### Overview:
-Liquid Galaxy for Education Controller is an Android application which is used to remotely control the master chromebook that Liquid Galaxy is installed. LGxEDU Controller inherits properties from Liquid-Galaxy-POIs-Controller which enables the users to use the traditional Liquid Galaxy on chromebooks. 
+Liquid Galaxy for Education Controller is an Android application which is used to remotely control the master chromebook that Liquid Galaxy has installed. LGxEDU Controller inherits properties from Liquid-Galaxy-POIs-Controller which enables the users to use the traditional Liquid Galaxy on chromebooks. 
 
 More information about Liquid-Galaxy-POIs-Controller: https://github.com/LiquidGalaxyLAB/Liquid-Galaxy-POIs-Controller
 
